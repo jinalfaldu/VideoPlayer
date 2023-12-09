@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bs_play"
+        android:icon="@drawable/play_"
+        android:iconTint="@color/white"
+        android:title="Play" />
+    <item
+        android:id="@+id/bs_share"
+        android:icon="@drawable/share"
+        android:iconTint="@color/white"
+        android:title="Share" />
+    <item
+        android:id="@+id/bs_delete"
+        android:icon="@drawable/delete"
+        android:iconTint="@color/white"
+        android:title="Delete" />
+    <item
+        android:id="@+id/bs_properties"
+        android:icon="@drawable/info"
+        android:iconTint="@color/white"
+        android:title="Properties" />
+</menu>
